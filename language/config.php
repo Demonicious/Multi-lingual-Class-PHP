@@ -10,7 +10,8 @@ $language_config = [
 
     'list'    => [
 
-        'english'
+        'english',
+        'spanish'
 
     ]    
 ];

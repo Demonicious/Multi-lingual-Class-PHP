@@ -1,6 +1,7 @@
 <?php
     require_once "language/manager.php";
 
+    $Language->SetLanguage('spanish');
     $Language->LoadVariables('greetings');
 ?>
 
